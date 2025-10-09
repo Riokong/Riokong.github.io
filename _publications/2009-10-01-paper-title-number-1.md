@@ -8,11 +8,11 @@ excerpt: 'Generating coherent and factually grounded text from structured data r
 
 date: 2025-10-31
 venue: 'NA'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+#slidesurl: 'http://academicpages.github.io/files/SciTables.pdf'
+paperurl: 'http://academicpages.github.io/files/SciTables.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-M. Alizade, S.K. Maity, T. Kong, et al.
-“SciTables: Enhancing Table-to-Text Generation with Large Language Models.”
-Manuscript in preparation for ACL 2025..
+M. Alizade,T. Kong, K.V. Kariappa, S.K. Maity, et al.
+“SciTables: A Dataset and Evaluation Framework for Complex Table-to-Text Generation”
+Submitted to ACL Rolling Review (October 2025 Cycle)
