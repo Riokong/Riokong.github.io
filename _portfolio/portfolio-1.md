@@ -1,5 +1,5 @@
 ---
-title: "SciTables: Scientific Table-to-Text Generation"
+title: "SciTables : A Dataset and Evaluation Framework for Complex Table-to-Text Generation"
 excerpt: 'A large-scale dataset and framework for scientific table-to-text generation.'
 #excerpt: 'A large-scale dataset and framework for scientific table-to-text generation.<br/><img src="/images/scitables.png" alt="SciTables" style="max-width:600px; height:auto;" />'
 collection: portfolio
@@ -12,11 +12,11 @@ SciTables introduces a dataset and framework for **scientific table-to-text gene
 **My Contributions**  
 - Designed scalable pipelines for table–text extraction and alignment from LaTeX sources.  
 - Conducted experiments with **state-of-the-art LLMs** and evaluation strategies (LLMs-as-judges, semantic metrics).  
-- Co-authored manuscript in preparation for **ACL 2025**.  
+- Co-authored paper Submitted to ACL Rolling Review (October 2025 Cycle).  
 
 **Tech Stack**  
 Python · LaTeX Parsing · NLP · PyTorch · Hugging Face · LLMs  
 
 **Links**  
-- 📄 [Manuscript (ACL 2025, in preparation)](#)  
+- 📄 [Submitted to ACL Rolling Review (October 2025 Cycle)](#)  
 - 💻 [GitHub Repository(in preparation)](https://github.com/MST-NLP-Research/SciTables))  

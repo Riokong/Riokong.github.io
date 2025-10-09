@@ -18,7 +18,8 @@ I hold a Bachelor’s degree in Communication Engineering and a Master’s degre
 
 I have built a strong foundation in computer science through coursework such as Natural Language Processing, Analysis of Algorithms, Introduction to Deep Learning, Foundations of Data Management, Scientific Programming with Python, Introduction to Machine Learning, Large Language Models, and Probability and Applications in Computing. Together, these courses have equipped me with both theoretical knowledge and practical skills across algorithms, programming, and AI.
 
-Since September 2024, I have also been a research member of the Human-Centered AI Lab, advised by Dr. Huiyuan Yang, where I contribute to projects at the intersection of time series forecasting, natural language processing, reasoning, and trustworthy AI. In addition, under the guidance of Dr. Suman Maity in my NLP course, I worked on the SciTable project, which has led to a manuscript in preparation and further strengthened my research experience in scientific data processing and text generation. Guided by curiosity and determination, I continue to deepen my expertise in these areas with the goal of advancing meaningful and impactful research.
+Since September 2024, I have also been a research member of the Human-Centered AI Lab, advised by Dr. Huiyuan Yang, where I contribute to projects at the intersection of time series forecasting, natural language processing, reasoning, and trustworthy AI. In addition, under the guidance of Dr. Suman Maity in my NLP course, I worked on the SciTable project, which has led to a paper Submitted to ACL Rolling Review (October 2025 Cycle). Currently I'm working on a new research project, “Grounded-Bias Detection on Political Bias,” this semester. The goal is to explore LLMs’ hidden ideological leanings by grounding political bias detection in factual contexts and structured evaluation benchmarks.
+
 
 ## **✨Research Interests**
 
