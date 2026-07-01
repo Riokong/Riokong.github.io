@@ -19,4 +19,4 @@ Python · LaTeX Parsing · NLP · PyTorch · Hugging Face · LLMs
 
 **Links**  
 - 📄 [Submitted to ACL Rolling Review (October 2025 Cycle)](#)  
-- 💻 [GitHub Repository(in preparation)](https://github.com/MST-NLP-Research/SciTables))  
+- 💻 [GitHub Repository(in preparation)](https://github.com/MST-NLP-Research/SciTables)
