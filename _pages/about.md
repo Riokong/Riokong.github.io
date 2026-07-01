@@ -8,28 +8,40 @@ redirect_from:
 ---
 
  
+## **✨News**
+
 ## **✨About Me**
 <img src="{{ site.baseurl }}/images/Sandy_Tech-20_Single-04.jpg"
      alt="Illustration" class="align-right" width="300" />
 
-I am a graduate student in Computer Science at Missouri University of Science and Technology (Missouri S&T). Motivated by a passion for science, personal growth, and the pursuit of becoming a researcher, I bring an interdisciplinary background that bridges engineering, finance, and computer science.
+I am an incoming Ph.D. student in Computer Science at Missouri University of Science and Technology (Missouri S&T), where I recently completed my M.S. in Computer Science.
 
-I hold a Bachelor’s degree in Communication Engineering and a Master’s degree in Finance, but during my previous career I discovered a strong interest in coding and artificial intelligence. Driven by curiosity, I self-taught Python, Java, C++, and core computer science fundamentals before beginning my graduate studies at Missouri S&T.
+My research explores how machine learning can be made more reliable, interpretable, and useful for biomedical and scientific applications. I am particularly interested in graph-based deep learning for neuroimaging, foundation models in data-scarce settings, and trustworthy AI for high-stakes domains.
 
-I have built a strong foundation in computer science through coursework such as Natural Language Processing, Analysis of Algorithms, Introduction to Deep Learning, Foundations of Data Management, Scientific Programming with Python, Introduction to Machine Learning, Large Language Models, and Probability and Applications in Computing. Together, these courses have equipped me with both theoretical knowledge and practical skills across algorithms, programming, and AI.
-
-Since September 2024, I have also been a research member of the Human-Centered AI Lab, advised by Dr. Huiyuan Yang, where I contribute to projects at the intersection of time series forecasting, natural language processing, reasoning, and trustworthy AI. In addition, under the guidance of Dr. Suman Maity in my NLP course, I worked on the SciTable project, which has led to a paper Submitted to ACL Rolling Review (October 2025 Cycle). Currently I'm working on a new research project, “Grounded-Bias Detection on Political Bias,” this semester. The goal is to explore LLMs’ hidden ideological leanings by grounding political bias detection in factual contexts and structured evaluation benchmarks.
+I am open to research collaboration and would be happy to connect with students, researchers, and practitioners working on biomedical AI, bioinformatics, graph learning, foundation models, or LLM robustness.
 
 
 ## **✨Research Interests**
 
-My research interests span NLP, ML, AI, and HCI. I aim to build human-centered technologies that address real-world challenges and advance AI for social good
+My research focuses on developing trustworthy and reliable machine learning methods for high-stakes biomedical and scientific applications.
+
+Current areas of interest include:
+
+- Machine learning for biomedical and bioinformatics applications
+- Graph-based deep learning for neuroimaging and functional connectivity analysis
+- Foundation model evaluation and adaptation in data-scarce settings
+- LLM robustness, faithfulness, and misinformation resistance
+- AI-assisted scientific reasoning and discovery
 
 ## **✨Community**
 
-Beyond research, I contribute to the international student community, helping peers adapt to academic life in the U.S. and actively engaging in cross-cultural initiatives at Missouri S&T.
+Beyond research, I actively contribute to the international student community at Missouri S&T. I enjoy helping students adapt to academic life in the U.S., supporting cross-cultural communication, and participating in initiatives that make the campus community more welcoming and inclusive.
+
+## **✨Service**
+
+I have supported student-facing programs and community activities through my work with the international student community at Missouri S&T. I am interested in continuing to contribute to academic service, peer mentoring, research collaboration, and community-building activities.
 
 ## **✨Personal**
 
-Outside of academics, I enjoy reading, with a particular interest in classical political philosophy. I also stay active through regular exercise at the gym and outdoor hiking, which help me maintain balance and creativity in both life and research.
+Outside of academics, I enjoy reading and working out. Reading helps me explore new ideas across science, history, and literature, while exercise helps me maintain balance, discipline, and creativity in both life and research.
 
