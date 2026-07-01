@@ -1,5 +1,5 @@
 ---
-title: "SciTables : A Dataset and Evaluation Framework for Complex Table-to-Text Generation (Submitted to ACL Rolling Review (October 2025 Cycle))"
+title: "SciTables : A Dataset and Evaluation Framework for Complex Table-to-Text Generation (Submitted to VLDB2026)"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
