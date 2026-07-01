@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- 
-## **✨News**
+
 
 ## **✨About Me**
 <img src="{{ site.baseurl }}/images/Sandy_Tech-20_Single-04.jpg"
@@ -28,7 +27,6 @@ My research focuses on developing trustworthy and reliable machine learning meth
 Current areas of interest include:
 
 - Machine learning for biomedical and bioinformatics applications
-- Graph-based deep learning for neuroimaging and functional connectivity analysis
 - Foundation model evaluation and adaptation in data-scarce settings
 - LLM robustness, faithfulness, and misinformation resistance
 - AI-assisted scientific reasoning and discovery
@@ -45,3 +43,6 @@ I have supported student-facing programs and community activities through my wor
 
 Outside of academics, I enjoy reading and working out. Reading helps me explore new ideas across science, history, and literature, while exercise helps me maintain balance, discipline, and creativity in both life and research.
 
+## **✨News**
+
+*Waiting to be updated...*
