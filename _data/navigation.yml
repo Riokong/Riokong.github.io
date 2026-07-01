@@ -12,6 +12,10 @@ main:
   #- title: "Talks"
   #  url: /talks/
 
+
+  - title: "Publications"
+    url: /publications/
+
   - title: "Teaching"
     url: /teaching/
 
@@ -26,11 +30,7 @@ main:
     #url: /cv/
     url: /files/Tengrui_CV.pdf
 
-
-  - title: "Publications"
-    url: /publications/
       
-
 
   # - title: "CV"
   #   url: /cv-json/
