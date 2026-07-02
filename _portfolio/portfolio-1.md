@@ -12,11 +12,12 @@ SciTables introduces a dataset and framework for **scientific table-to-text gene
 **My Contributions**  
 - Designed scalable pipelines for table–text extraction and alignment from LaTeX sources.  
 - Conducted experiments with **state-of-the-art LLMs** and evaluation strategies (LLMs-as-judges, semantic metrics).  
-- Co-authored paper Submitted to ACL Rolling Review (October 2025 Cycle).  
+- Assisted in fine-tuning experiments, including dataset preparation, training, and refinement.  
+- Co-authored paper accepted to VLDB 2026.  
 
 **Tech Stack**  
 Python · LaTeX Parsing · NLP · PyTorch · Hugging Face · LLMs  
 
 **Links**  
-- 📄 [Submitted to ACL Rolling Review (October 2025 Cycle)](#)  
-- 💻 [GitHub Repository(in preparation)](https://github.com/MST-NLP-Research/SciTables)
+- 📄 [Accepted to VLDB 2026](/publication/2026-06-30-scitables)  
+- 💻 [GitHub Repository](https://github.com/MST-NLP-Research/SciTables)

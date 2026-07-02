@@ -13,9 +13,11 @@ redirect_from:
 <img src="{{ site.baseurl }}/images/Sandy_Tech-20_Single-04.jpg"
      alt="Illustration" class="align-right" width="300" />
 
-I am an incoming Ph.D. student in Computer Science at Missouri University of Science and Technology (Missouri S&T), where I recently completed my M.S. in Computer Science.
+I am an incoming Ph.D. student in Computer Science at Missouri University of Science and Technology, advised by [Dr. Park](https://sites.mst.edu/sjpark/), where I recently completed my M.S. in Computer Science.
 
 My research explores how machine learning can be made more reliable, interpretable, and useful for biomedical and scientific applications. I am particularly interested in graph-based deep learning for neuroimaging, foundation models in data-scarce settings, and trustworthy AI for high-stakes domains.
+
+I came to computer science from an interdisciplinary background in engineering and finance, and my recent work spans first-author research on functional connectivity diagnosis (BrainLRR) and a co-authored dataset benchmark accepted to VLDB 2026 (SciTables).
 
 I am open to research collaboration and would be happy to connect with students, researchers, and practitioners working on biomedical AI, bioinformatics, graph learning, foundation models, or LLM robustness.
 
@@ -45,4 +47,5 @@ Outside of academics, I enjoy reading and working out. Reading helps me explore 
 
 ## **✨News**
 
-*Waiting to be updated...*
+- **Jul 2 2026** — **[Paper]** SciTables was accepted to VLDB 2026!
+- **May 31 2026** — **[Milestone]** Completed M.S. in Computer Science at Missouri S&T.

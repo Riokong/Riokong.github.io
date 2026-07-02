@@ -1,5 +1,5 @@
 ---
-title: "SciTables : A Dataset and Evaluation Framework for Complex Table-to-Text Generation (Submitted to VLDB2026)"
+title: "SciTables : A Dataset and Evaluation Framework for Complex Table-to-Text Generation (Accepted to VLDB 2026)"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-06-30-scitables
@@ -7,7 +7,7 @@ excerpt: 'SciTables is a dataset and framework for scientific table-to-text gene
 
 
 date: 2026-06-30
-venue: 'NA'
+venue: 'VLDB 2026'
 #slidesurl: 'http://academicpages.github.io/files/SciTables.pdf'
 paperurl: '/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
@@ -15,4 +15,4 @@ paperurl: '/files/paper1.pdf'
 ---
 M. Alizade,T. Kong, K.V. Kariappa, S.K. Maity, et al.
 “SciTables: A Dataset and Evaluation Framework for Complex Table-to-Text Generation”
-Submitted to VLDB2026
+Accepted to VLDB 2026

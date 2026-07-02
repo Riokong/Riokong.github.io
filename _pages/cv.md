@@ -9,56 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/Tengrui_CV.pdf" class="btn btn--primary">Download CV as PDF</a>
+</div>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Missouri University of Science and Technology, 2030 (expected), advised by [Dr. Park](https://sites.mst.edu/sjpark/)
+* M.S. in Computer Science, Missouri University of Science and Technology, May 2026
+* M.S. in Finance, University of International Business and Economics, 2015
+* B.S. in Communication Engineering, East China Jiaotong University, 2012
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D./M.S. Research — Missouri University of Science and Technology
+  * Working on trustworthy, reliable machine learning for biomedical and scientific applications
+  * First-author research on functional connectivity diagnosis (BrainLRR)
+  * Co-authored SciTables, a table-to-text generation dataset and benchmark accepted to VLDB 2026
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, PyTorch, Hugging Face
+* NLP, LLMs, LaTeX parsing
+* Graph-based deep learning, foundation model evaluation
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% assign sorted_publications = site.publications | sort: 'date' | reverse %}{% for post in sorted_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+{% if site.talks.size > 0 %}
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+{% endif %}
+
+{% if site.teaching.size > 0 %}
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+{% endif %}
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Active contributor to the international student community at Missouri S&T, supporting peer mentoring and cross-cultural initiatives
