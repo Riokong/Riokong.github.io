@@ -20,12 +20,23 @@ Education
 * M.S. in Finance, University of International Business and Economics, 2015
 * B.S. in Communication Engineering, East China Jiaotong University, 2012
 
-Research Experience
+Experience
 ======
 * Ph.D./M.S. Research — Missouri University of Science and Technology
   * Working on trustworthy, reliable machine learning for biomedical and scientific applications
   * First-author research on functional connectivity diagnosis (BrainLRR)
   * Co-authored SciTables, a table-to-text generation dataset and benchmark accepted to VLDB 2026
+
+Professional Experience
+======
+* Nov 2020 - Jun 2024: Principal Research Staff Member (Data Analytic)
+  * Changsha Science and Technology Bureau, Changsha, Hunan, China
+
+* Oct 2019 - Nov 2020: Bond Investment Analyst, Fixed Income Department
+  * First State Cinda Fund Management Co., Ltd.
+
+* Jun 2015 - Oct 2019: Bond Investment Analyst, Fixed Income Department
+  * Yingda Securities Co., Ltd.
 
 Skills
 ======
